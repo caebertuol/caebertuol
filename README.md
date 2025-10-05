@@ -1,5 +1,5 @@
 <h1 align="center">
-  <code>console.log("Hello, World!")</code>
+  <code style="color:#E34F26;">console.log("Hello, World!")</code>
 </h1>
 
 # Olá, eu sou Caê! 
