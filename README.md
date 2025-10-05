@@ -7,7 +7,7 @@ Sou um desenvolvedor Front-End em formação. Minha jornada na tecnologia é gui
 
 - 🌱 Atualmente estou em formação como **Desenvolvedor Front-End** pelo **SENAI CIMATEC**, uma iniciativa da **Ford**.
 - 🎨 Aprofundando meus conhecimentos em **Design** pela **Unifel** para fortalecer minha base criativa.
-- 👨‍💻 Com foco total em **UX Design**, estudando através da **Coursera** para desenvolver produtos que as pessoas realmente amem usar.
+- 👨‍💻 Com foco total em **UX Design**, estudando através da **Coursera** para desenvolver serviços que proporcionem a melhor experiência ao usuário.
 - ✨ Meu objetivo é unir a precisão do código com a empatia do design.
 
 <br>
@@ -27,4 +27,4 @@ Sou um desenvolvedor Front-End em formação. Minha jornada na tecnologia é gui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caê-bertuol-086385356/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellebertuol@gmail.com)
-*(Adicione seu e-mail no lugar de SEU-EMAIL-AQUI)*
+
