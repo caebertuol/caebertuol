@@ -3,7 +3,7 @@
 <br>
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor Front-End em formação. Minha jornada na tecnologia é guiada pela curiosidade e pelo desejo de resolver problemas através do design centrado no usuário.
+Desenvolvedor Front-End em formação. Minha jornada na tecnologia é guiada pela curiosidade e pelo desejo de resolver problemas através do design centrado no usuário.
 
 - 🌱 Atualmente estou em formação como **Desenvolvedor Front-End** pelo **SENAI CIMATEC**, uma iniciativa da **Ford**.
 - 🎨 Aprofundando meus conhecimentos em **Design** pela **Unifel** para fortalecer minha base criativa.
